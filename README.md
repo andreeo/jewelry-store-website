@@ -13,7 +13,7 @@ Welcome to the Jewelry Store website project! This project showcases a simple an
 
 ## Demo
 
-You can view a live demo of the website [here](#).
+You can view a live demo of the website [here](https://andreeo.github.io/jewelry-store-website/).
 
 ## Features
 
