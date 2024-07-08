@@ -62,21 +62,16 @@ li > a:hover {
 
 .gallery {
     display: flex;
-    //overflow-x: scroll;
     overflow-y: hidden;
-    //scroll-snap-type: x mandatory;
-    //scroll-behavior: smooth;
     width: 50vw;
     height: 50vh;
     margin: 2rem auto;
     box-shadow: 0 1px 2px var(--color-tertiary);
     border-radius: 0.2rem;
-    //scrollbar-color: var(--color-bg) var(--color-primary);
     scrollbar-width: none;
 }
 
 .gallery > img {
-    //scroll-snap-align: start;
     min-width: 50vw;
     object-fit: cover;
     animation: slide 20s infinite;
